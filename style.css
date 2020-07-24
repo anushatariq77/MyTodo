@@ -1,0 +1,47 @@
+body{
+  text-align: center;
+background-image: linear-gradient(pink, grey, blueviolet);
+background-repeat: no-repeat;
+height: 95vh;
+}
+
+.btn{
+margin-left: 15px;
+width: 20%;
+border-radius: 20px;
+font-size: 1.5em;
+}
+
+#todo-item{
+font-size: 1.5em;
+border-radius: 20px;
+margin-top: 20px;
+}
+
+h1{
+font-size: 4em;
+margin-bottom: 20px;
+background-color: goldenrod;
+border-radius: 20px;
+text-shadow: 2px 2px grey;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.lis{
+  font-size: 1.2em;
+  color: white;
+}
+
+.main{
+  background-color: rgba(23, 22, 22,0.7);
+  margin-top: 70px;
+  height: 90%;
+  width: 60%;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+.btn:hover {
+    background-color: purple;
+    cursor: pointer;
+}
